@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">salongTest</string>
+    <string name="albumcover">albumCover</string>
+    <string name="playpauseicon">playpauseicon</string>
+    <string name="zero">0:00</string>
+    <string name="hint1"><i>Canción Artista Album</i></string>
+</resources>
